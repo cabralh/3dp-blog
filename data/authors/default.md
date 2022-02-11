@@ -1,54 +1,66 @@
 ---
-name: David Levai
+name: Henry Cabral
 avatar: /static/images/avatar.png
-occupation: Part-Time Creator & Full-Time COO
-company: ScreamingBox
-email: david@davidlevai.com
-twitter: https://twitter.com/iamdavidlevai
-linkedin: https://www.linkedin.com/in/iamdavidlevai
-github: https://github.com/DLevai94
+occupation: Startup Founder & Creative Engineer
+company: Enable Product Development, LLC.
+email: hjcbr19@gmail.com
+twitter: https://twitter.com/cabralh
+linkedin: https://www.linkedin.com/in/henrycabral
+github: https://github.com/cabralh
 ---
 
-I'm a Part-Time Creator and full-time COO @ [ScreamingBox](https://screamingbox.com).
+# Hi 😄
 
-I create various types of content across [Twitter](https://twitter.com/iamdavidlevai), [YouTube](https://dvdlv.me), [LinkedIn](https://linkedin.com/in/iamdavidlevai),[TikTok](https://tiktok.com/@iamdavidlevai), and this blog about **building IT businesses and production-ready apps.**
+I'm a Startup Founder & Creative Engineer @ [Enable](https://enableu.ai), a digital product development startup focused on building physical products using additive manufacturing techniques geared for minimal viable products, small and large scale production.
 
-Since my teenage years, I have worked as a freelance full-stack developer mostly with
-startups and small businesses. In 2020 I decided to use this knowledge to scale a
-digital agency and build open startups.
+I'm obessed with all things 3-D Printing/Modeling/Design/Art.
 
-## Why I'm doing these in public?
+I also write and create various types of content across [Twitter](https://twitter.com/iamdavidlevai), [YouTube](https://dvdlv.me), [Medium](https://medium.com/@hjcbr19), and this blog about **All Things Additive.**
 
-- I believe that learning from others by following their journey is inspiring and helpful. I too follow tens of creators on their journey.
-- By being active in social media, and building in public, I can meet with interesting people, and support each other.
+I've been working with CAD since I was a teenager. I started as a mechanical drafter and quickly learned AutoCAD, Inventor and later Solidworks, Creo Parametric and Fusion 360. During university, I have worked as a mechanical design engineer and senior product development engineer at both startup and large companies.
 
-Also, when I'm away from the internet, I spend my time working out, travel to interesting places, playing some Rainbow Six: Siege.
+Fast forward to 2022, I decided to use this knowledge to start a company focused on creating products primarily using additive manufacturing, with the intent for small or large scale production.
+
+## What's the point of this site?
+
+- I don't see a place where Functional 3D Printing exists. I want to build a case for it in the public eye because there are incredible feats being accomplished using 3D Printing that is revolutionizing all industries.
+- To inspire other people to create products using additive manufacturing.
+- To teach others design for manufacturing, 3D Printing, design.techniques and other cool projects other's have worked on.
+- To bring functional 3D Printing to the general public. Cool toys and gadgets are awesome but functional products that can impact society is incredible.
+- I think by sharing my journey will inspire others to share theirs too.
+
+**Feel free to reach out to me anytime, I'd love to chat! Not just about additive but anything that peaks your creative curiosity!**
+
+## Why Additive?
+
+The future of manufacturing is additive. Complex design and rise in material cost can be mitigated by using additive manufacturing. No need for expensive one-offs from traditional manufacturing.
+
+My biggest goal is to enable people to create products that can solve complex solutions and bring more awareness to additive manufacturing.
 
 ## What can you find here?
 
-Vlogs, essays, tips, and discussions. About building an international digital product
-agency, building production-ready apps, and being mindful, productive as an
-entrepreneur in IT. If you have some more time, feel free to read about my background,
-knowledge, experience, and my why in the next few paragraphs:
+A lot of content, **that is absolutely free.** This includes:
 
-When I'm not creating content, or managing a business, I am a full-stack developer who
-started as a UI designer. Enthusiastic about growth mindset and self-development,
-passionate about digital marketing, and UX. Always on the lookout for how to maximize
-productivity and my teams' efficiency.
+- Case Studies
+- Projects
+- Essays
+- Technique tips on design and 3D Printing
+- Functional 3D Printing Breakdowns and Guides
+- Industry Experience (From my past lives and others)
 
-**My background as a Software Engineer:** I create user-centered web and
-mobile applications using cutting-edge technologies like React Native, Flutter,
-GraphQL, and ESNext for almost 10 years. I love to learn new things by experimenting
-with state-of-the-art technologies (mostly JS-related).
+## What am I doing besides this?
 
-**My background as a Content Creator:** I like sharing my knowledge with
-others, so I write for several tech blogs and authoring my blog too. I also create
-content on LinkedIn, Twitter, and Youtube to teach software devs how to be successful
-as freelancers, and how to write truly production-ready apps.
+When I'm not creating content, or building a startup, I am a avid healthy lifestyle freak who competes in olympic weightlifting in the 96kg category. Shout out to the corrupt IWF for getting the sport removed from the Olympics forever 🤦🏽.
 
-**My background as an Entrepreneur:** I've got experience in managing small &
-medium-sized product development teams by running a digital agency. We successfully
-finished several projects that were started from the ground up with lean, agile
-methods for multiple clients. I managed the projects from estimation & proposal,
-through design & development, to marketing & maintenance. Later, I joined an
-international digital product agency, ScreamingBox as a COO.
+**My background as an Engineer:** Graduated with a B.S./M.S. in Biomedical Engineering. 5 Years of experience in two startup companies and two large medical device companies including a startup pharmaceutical company that created 3D printed tablets for patients suffering from pill burden and dysphagia.
+
+**My background in 3D Printing:** Started using CAD since I was in 9th grade and self taught in 3D modeling software such as Solidworks, Fusion 360 and Inventor Creo. During my time in startup, I designed a pharmaceutical manufacturing 3D printer that 3D-printed tablets as a drug delivery system. I was fortunate enough to have received a 2021 CPhi Pharma Excellence Award for my lead contribution to the design of the machine and won patents for it.
+
+**My background as a Content Creator:** Absolutely none. I just like writing and creating designs online. Figured I could start sharing some of the things I have worked on and will work on now with the world.
+
+**My background as an Entrepreneur:** Absolutely none. ***See the trend?*** I've gotten entrepreneur experience from watching my father's career as one for almost 20 years. I was also fortunate to work at two startups that exposed to me not just the technical side of things but the business development aspect of a company which quite frankly is converting me from an engineer to a founder instead.
+
+**My two cents that makes sense:** Don't be afraid to start something you know nothing about.
+
+From the words of Sahil Laviniga, writer of ***Minimal Entreprenuer***:
+> How to grow - say yes to the things you cannot do.

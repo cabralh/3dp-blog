@@ -1,6 +1,6 @@
 const projectsData = [
   {
-    title: 'SaaS Kit',
+    title: 'Rigid Mount for Action Shots',
     description: `Work in progress`,
     imgSrc: '/static/images/twitter-card.jpg',
     href: '/saas-kit',
