@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row justify-start items-center">
           <Image
             src="/static/images/avatar.png"
-            alt="An image about David Levai"
+            alt="An image about Uncured Resin"
             className="border-2 border-gray-200 rounded-full w-32 h-32 shadow-md"
             width={72}
             height={72}
@@ -18,7 +18,7 @@ const Hero = () => {
             loading="eager"
           />
           <h2 className="ml-2 text-3xl font-extrabold font-display leading-tight sm:text-4xl sm:leading-none md:text-5xl lg:text-5xl xl:text-6xl">
-            Dávid Lévai
+            Uncured Resin
           </h2>
         </div>
         <p className="mt-2 text-lg ">

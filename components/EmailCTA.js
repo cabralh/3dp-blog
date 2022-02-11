@@ -4,8 +4,8 @@ import { ErrorMessage } from '@hookform/error-message'
 import SuccessMessage from '@/components/SuccessMessage'
 
 const EmailCTA = ({
-  title = 'Join 100+ developers getting early access to tutorials and courses about building a business in IT',
-  description = 'I learned these in the past 10 years by building a digital product development agency, and dozens of different web & mobile applications for clients and myself.',
+  title = 'Join growing community of designers and engineers getting early access to tutorials and industry insights into all things additive.',
+  description = 'I want to share what I have learned by working in several industries within additive manufacturing and product development, alongside my mentors and their experiences with you, forever free.',
   list = 'monthly',
   cta = 'I want to be notified!',
   embedded = false,
